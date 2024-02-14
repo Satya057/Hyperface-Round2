@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.96f4e0b7.css","mappings":"AAAA,KAGE,sBAAuB,CAFvB,QAAS,CACT,SAEF,CAEA,wDACE,YACF","sources":["index.css"],"sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n\n.anticon.anticon-cross-circle.ant-calendar-picker-clear {\n  display: none;\n}\n"],"names":[],"sourceRoot":""}
